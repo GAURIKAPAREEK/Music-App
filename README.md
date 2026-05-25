@@ -20,18 +20,23 @@ Tools Used:-
 3. Home Screen
 
 
-How to Use :-
-Open the Figma design file
-Explore different screens and components
-Use prototype mode for interactions and navigation
-Customize colors, fonts, and layouts if needed
-Future Improvements
-Dark/Light Mode Variants
-Advanced Animations
-Tablet & Desktop Responsive Screens
-Social Sharing Features
-Live Streaming UI
-Podcast Section
+## How to Use
 
+- Open the Figma design file
+- Explore different screens and UI components
+- Use Prototype Mode for interactions and navigation flow
+- Customize colors, typography, and layouts as needed
+
+
+
+## Future Improvements
+
+- Dark & Light Mode Variants
+- Advanced UI Animations and Micro-interactions
+- Tablet & Desktop Responsive Designs
+- Social Sharing Features
+- Live Music Streaming Interface
+- Podcast & Audio Content Section
+  
 Purpose of the Project:-
 This project was created for practicing UI/UX design principles, mobile app prototyping, and creating visually engaging user experiences using Figma.
